@@ -1,16 +1,3 @@
-.glyphicon{
-
-}
-
-.glyphicon-arrow-up:before, .glyphicon-circle-arrow-up:before {
-    color: #00bb00;
-    font-size: 60%;
-}
-
-.glyphicon-arrow-up:before {
-    content: "\e093";
-}
-
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -584,10 +571,10 @@ th {
   content: "\e092";
 }
 .glyphicon-arrow-up:before {
-  content: "\25bc";
+  content: "\25b2";
 }
 .glyphicon-arrow-down:before {
-  content: "\e094";
+  content: "\25bc";
 }
 .glyphicon-share-alt:before {
   content: "\e095";
@@ -635,10 +622,10 @@ th {
   content: "\e112";
 }
 .glyphicon-chevron-up:before {
-  content: "\e113";
+  content: "\25b2";
 }
 .glyphicon-chevron-down:before {
-  content: "\e114";
+  content: "\25bc";
 }
 .glyphicon-retweet:before {
   content: "\e115";
